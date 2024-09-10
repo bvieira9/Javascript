@@ -27,7 +27,23 @@ Constantes
 
 Strings (textos): "" '' ``
 Number: 2 2.4 
-Function
+Boolean: false, true
 
-## Operadores
+# Operadores
 Operadores de atribuição de valor: =
+Operador de concatenação(junção de duas ou mais strings): +
+
+## Estruturas de dados 
+
+### Arrays
+Uma lista que contém qualquer tipo de dados.
+
+### Objetos
+Atributos e métodos
+Criação e manipulação de objetos
+Acesso e propriedades de objetos
+
+### Function
+Criar, passar argumento
+Executar
+Arrow function/ named function
