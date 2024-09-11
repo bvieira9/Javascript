@@ -3,47 +3,59 @@
 Maneira de dar instrução ao computador.
 Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para resolver problemas.
 
-    **Algoritmo**: Sequência de passos lógicos e finita para resolução de um problema.
+> 💡 **Algoritmo**: Sequência de passos lógicos e finita para resolução de um problema.
 
-## Peças de uma linguagens
-- Comentários 
+- Comentários
 - Declaração de variáveis (const, let)
-- Operadores (atribuição, concatenação, matemáticos, lógicos)
+- Operadores (atribuição, concatenação, matemáticos, lógicos )
 - Tipos de dados (string, number, boolean)
-- Estrutura de dados (functions, objects, array)
+- Estrutura de dados (functions, object, array)
 - Controle de fluxo (if/else)
-- Estrutura de repetição (for/while)
+- Estrutura de repetição (for, while)
 
-## Fases da resolução de um problema
-- Coletar os dados
-- Processar os dados (manipular, alterar...)
-- Apresentar os dados
+# Fases da resolução de um problema
 
-## Escopos e variáveis
-Variáveis globais e locais
-Constantes
+Coletar os dados
+Processar os dados (manipular, alterar ...)
+Apresentar os dados
+
+## Escopo e variáveis:
+
+- [x] Variáveis globais e locais
+- [x] Constantes
 
 ## Tipos de dados:
 
-Strings (textos): "" '' ``
-Number: 2 2.4 
-Boolean: false, true
+- [x] Strings (texto): "" '' ``
+- [x] Numbers: 2 1.4
+- [x] Boolean: true, false
 
 # Operadores
-Operadores de atribuição de valor: =
-Operador de concatenação(junção de duas ou mais strings): +
 
-## Estruturas de dados 
+- [x] Operadores de atribuição de valor: =
+- [x] Operador de contatenação: +
+- [x] Operadores de comparação: == != <= >= < >
 
-### Arrays
-Uma lista que contém qualquer tipo de dados.
+## Estruturas de dados:
 
-### Objetos
-Atributos e métodos
-Criação e manipulação de objetos
-Acesso e propriedades de objetos
+### Arrays: 
 
-### Function
-Criar, passar argumento
-Executar
-Arrow function/ named function
+- [x] Uma lista que contém qualquer tipo de dado
+- [x] Métodos de array: push, find, forEach
+
+### Objetos:
+
+- [x] Atributos e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos
+
+### Functions
+
+- [x] criar, passar argumento
+- [x] excutar
+- [x] arrow function / named function
+
+# Estrutura de repetição
+
+- [x] while: é uma estrutura de repetição. Enquanto for true (verdadeiro), ele continuara executando.
+
