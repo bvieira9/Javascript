@@ -57,5 +57,18 @@ Apresentar os dados
 
 # Estrutura de repetição
 
-- [x] while: é uma estrutura de repetição. Enquanto for true (verdadeiro), ele continuara executando.
+- [x] while: é uma estrutura de repetição. Enquanto for true (verdadeiro), ele continuara executando. É preciso ter o cuidado de definir uma maneira de sair do loop, senão vai sempre continuar executando. Por isso, em algum momento deve-se colocar um return, que vai interromper a função. 
 
+# Condicionais
+
+- [x] switch: Vai criar "menus"
+- [x] if/else
+
+## Módulos em Node.js:
+
+- [x] Importação de módulos (require, CommonJS)
+- [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promises:
+
+- [x] Uso de funções assíncronas (async/await)
